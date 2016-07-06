@@ -10,6 +10,6 @@ Android Material design login and signup interfaces with validation rules.
 
 ###Screenshots
 <p align="center">
-<img src="https://github.com/kasunbuddhima/LoginApp/blob/master/app/src/main/res/drawable/device-2016-07-06-193121.png" width="350"/>
-<img src="https://github.com/kasunbuddhima/LoginApp/blob/master/app/src/main/res/drawable/device-2016-07-06-193412.png" width="350"/>
+<img src="https://github.com/kasunbuddhima/LoginApp/blob/master/app/src/main/res/drawable/screenshot_1.png" width="350"/>
+<img src="https://github.com/kasunbuddhima/LoginApp/blob/master/app/src/main/res/drawable/screenshot_2.png" width="350"/>
 </p>
